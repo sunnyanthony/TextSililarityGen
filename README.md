@@ -1,1 +1,1 @@
-# TextSililarityGen
+# Text Similarity Generator
